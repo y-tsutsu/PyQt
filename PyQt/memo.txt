@@ -1,1 +1,3 @@
 pyuic5 -x hoge.ui -o piyo.py
+python setup.py build
+python setup.py bdist_msi
