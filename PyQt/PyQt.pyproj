@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b6dcbdd3-862f-434b-9bf7-d8e194a26a02</ProjectGuid>
+    <ProjectGuid>985552f3-71f7-41f0-994a-7c290d191e53</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>ramen_timer.pyw</StartupFile>
     <SearchPath>
