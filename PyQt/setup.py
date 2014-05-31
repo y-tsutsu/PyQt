@@ -9,7 +9,7 @@ setup(  name = "ramen_timer",
         version = "1.0",
         options = {"build_exe": {
 			"includes": "atexit",
-			"include_files": [(r"c:\python33\lib\site-packages\PyQt5\libEGL.dll", "")]
+			"include_files": [(r"c:\python34\lib\site-packages\PyQt5\libEGL.dll", "")]
 		}},
         executables = [Executable("ramen_timer.pyw", base=base)])
 		
